@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">mworkertools</string>
+    <string name="about_me">我</string>
+    <string name="attendance_list">考勤</string>
+    <string name="salary_list">薪酬</string>
+    <string name="notice_list">公告</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
